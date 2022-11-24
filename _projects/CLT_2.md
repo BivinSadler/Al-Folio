@@ -2,7 +2,7 @@
 layout: page
 title: project 7
 description: CLT Example
-img:
+img:https://github.com/BivinSadler/BivinSadler.github.io/blob/master/assets/img/IllustrationCentralTheorem.png
 importance: 4
 category: fun
 ---
