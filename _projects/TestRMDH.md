@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: CLT Example
+title: project 8
+description: Test RMD MPG
 img: assets/img/IllustrationCentralTheorem.png
 importance: 4
 category: fun
